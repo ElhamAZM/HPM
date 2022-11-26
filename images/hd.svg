@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="43.542858mm"
+   height="43.542858mm"
+   viewBox="0 0 43.542858 43.542858"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="hd.svg">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4498">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4488" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4490" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.8700000000000001"
+         result="blur"
+         id="feGaussianBlur4492" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4494" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4496" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-53.852572"
+     inkscape:cy="48.64388"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text4500"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-22.073806,-36.347617)">
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.25098039;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4498)"
+       id="path4485"
+       cx="43.845234"
+       cy="58.119045"
+       r="18.142857" />
+    <g
+       aria-label="HD"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="text4500">
+      <path
+         style="color:#000000;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:6.61458302px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 33.544922,51.037109 -0.117188,0.867188 -1.789062,13.296875 h 4.291016 l 0.74414,-5.523438 h 2.173828 l -0.753906,5.523438 h 4.300781 l 1.925781,-14.164063 h -4.316406 l -0.621094,4.589844 h -2.142578 l 0.611328,-4.589844 z m 1.748047,2 h 0.27539 l -0.613281,4.589844 h 6.175781 L 41.75,53.037109 h 0.28125 l -1.382812,10.164063 h -0.263672 l 0.753906,-5.523438 h -6.212891 l -0.74414,5.523438 h -0.25586 z"
+         id="path4491"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:6.61458302px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 45.0625,51.037109 -0.117188,0.867188 -1.779296,13.296875 h 4.919922 c 1.685879,0 3.076683,-0.236549 4.185546,-0.81836 h 0.002 l 0.0039,-0.002 c 1.076135,-0.571282 1.953471,-1.477888 2.613281,-2.634765 l 0.002,-0.002 c 0.674051,-1.178925 1.015625,-2.496494 1.015625,-3.884766 0,-1.349726 -0.32274,-2.60412 -0.978515,-3.683594 -0.638354,-1.059666 -1.516895,-1.884183 -2.583985,-2.394531 -1.123739,-0.545789 -2.585821,-0.744141 -4.474609,-0.744141 z m 1.75,2 h 1.058594 c 1.734471,0 2.966202,0.23328 3.605468,0.544922 l 0.0039,0.002 h 0.0039 c 0.707823,0.338525 1.268344,0.852679 1.732422,1.623047 v 0.002 l 0.002,0.002 c 0.456153,0.749717 0.689453,1.607446 0.689453,2.648437 0,1.06927 -0.247251,2.01053 -0.751953,2.892578 h -0.002 v 0.002 c -0.507529,0.890568 -1.10544,1.480906 -1.8125,1.857422 -0.677161,0.354907 -1.767603,0.589844 -3.255859,0.589844 h -2.634766 z m 0.257812,0.142579 -0.115234,0.867187 -1.201172,9.029297 h 1.894532 c 1.213107,0 2.11693,-0.07562 2.863281,-0.353516 h 0.002 l 0.002,-0.002 c 0.914912,-0.346557 1.688802,-0.971695 2.234375,-1.796875 0.56539,-0.855151 0.826172,-1.892462 0.826172,-3.023437 0,-0.932694 -0.184897,-1.789972 -0.605469,-2.515625 -0.39921,-0.702385 -0.994724,-1.271466 -1.716797,-1.644532 -5.28e-4,-2.77e-4 -0.0014,2.77e-4 -0.002,0 -0.768978,-0.402712 -1.679441,-0.560546 -2.726562,-0.560546 z m 1.744141,2.052734 c 0.638561,0.03585 1.204287,0.118119 1.511719,0.279297 l 0.0039,0.002 0.002,0.002 c 0.408068,0.209976 0.685369,0.475794 0.902344,0.859375 l 0.0039,0.0059 0.002,0.0039 c 0.205682,0.353627 0.335938,0.840987 0.335938,1.515625 0,0.831349 -0.179538,1.441131 -0.496094,1.919921 -0.335495,0.507437 -0.729437,0.82459 -1.267578,1.029297 -2.59e-4,9.7e-5 -0.0017,-9.6e-5 -0.002,0 -0.237525,0.08819 -0.969694,0.153741 -1.767578,0.185547 z"
+         id="path4493"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g4561"
+         transform="translate(38.897535,-12.416518)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4491-7"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:6.61458302px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           d="m -4.4780811,64.454282 h 2.290299 l -0.611849,4.588866 h 4.15892 l 0.620117,-4.588866 h 2.298567 L 2.6243279,76.616846 H 0.34229586 L 1.0947039,71.093669 h -4.191991 l -0.744141,5.523177 h -2.273762 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4493-7"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:6.61458302px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           d="m 7.0395619,64.454282 h 1.934765 q 2.7202481,0 4.0431641,0.644921 1.331185,0.636654 2.158008,2.00918 0.835091,1.372526 0.835091,3.166732 0,1.843815 -0.8847,3.389973 -0.876433,1.537891 -2.215886,2.248959 -1.339453,0.702799 -3.7207031,0.702799 h -3.77858 z m 2.009179,2.141471 -1.050065,7.896158 h 0.752409 q 1.7363281,0 2.5135421,-0.289388 1.091406,-0.413411 1.752864,-1.413867 0.661459,-1.000456 0.661459,-2.4722 0,-1.207162 -0.471289,-2.017448 -0.463021,-0.818555 -1.314649,-1.256771 -0.851627,-0.446484 -2.2654941,-0.446484 z" />
+      </g>
+    </g>
+  </g>
+</svg>
